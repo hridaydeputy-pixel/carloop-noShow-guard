@@ -1,6 +1,6 @@
 # CareLoop Clinics: No-Show Guard
 
-**Repository:** https://github.com/YOUR-USERNAME/careloop-noshow-guard  <!-- replace with your public repo link -->
+**Repository:** https://github.com/hridaydeputy-pixel/carloop-noShow-guard
 
 **Business question:** *Which appointments are most likely to be missed, why do patients miss them, and what should CareLoop do first?*
 
